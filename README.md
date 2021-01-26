@@ -1,5 +1,8 @@
 # Hi everyone!!
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=viniciusyaunner&show_icons=true&theme=synthwave)
+#### I’m a programmer with a bit of a front-end too, I’m interested in FOSS culture, network infrastructure, natural language processing, minimalist art, futurism, vaporwave and art nouveau.
 
+#### [My personal website](http://viniciusyaunner.github.io/)
+
+![Vinicius's github stats](https://github-readme-stats.vercel.app/api?username=viniciusyaunner&show_icons=true&theme=midnight-purple)
 
