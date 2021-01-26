@@ -1,6 +1,6 @@
 # Hi everyone!!
 
-#### I’m a programmer, I’m interested in FOSS culture, network infrastructure, natural language processing, minimalist art, futurism, vaporwave and art nouveau.
+#### I’m a programmer interested in FOSS culture, network infrastructure, natural language processing, minimalist art, futurism, vaporwave and art nouveau.
 
 #### [My personal website](http://viniciusyaunner.github.io/)
 
